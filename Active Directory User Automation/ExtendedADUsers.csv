@@ -1,0 +1,15 @@
+FirstName,LastName,Username,Password,OrganizationalUnit,Groups
+John,Doe,jdoe,P@ssword123,TestOU,TestGroup1;TestGroup2
+Jane,Smith,jsmith,P@ssword123,TestOU,TestGroup1
+Bob,Johnson,bjohnson,P@ssword123,TestOU,TestGroup2;TestGroup3
+Alice,Williams,awilliams,P@ssword123,TestOU,TestGroup3
+Michael,Brown,mbrown,P@ssword123,SalesOU,SalesGroup1;SalesGroup2
+Sarah,Miller,smiller,P@ssword123,SalesOU,SalesGroup1
+David,Davis,ddavis,P@ssword123,SalesOU,SalesGroup2;SalesGroup3
+Emily,Garcia,egarcia,P@ssword123,SalesOU,SalesGroup3
+Chris,Wilson,cwilson,P@ssword123,HR_OU,HRGroup1;HRGroup2
+Olivia,Martinez,omartinez,P@ssword123,HR_OU,HRGroup1
+Daniel,Anderson,danderson,P@ssword123,HR_OU,HRGroup2;HRGroup3
+Sophia,Taylor,staylor,P@ssword123,HR_OU,HRGroup3
+Matthew,Thomas,mthomas,P@ssword123,SalesOU,SalesGroup1;SalesGroup2
+Emma,Lee,elee,P@ssword123,HR_OU,HRGroup1;HRGroup2
